@@ -2,7 +2,7 @@
 
 Generates one MP3 per word from `../data/words.json` using Google Cloud Text-to-Speech.
 
-### Setup
+### Prepare
 
 ```bash
 gcloud auth application-default login
@@ -16,10 +16,17 @@ uv sync
 uv run main.py
 ```
 
-Audio files are written to `tts/output/`.
+### Output
 
-Notes:
+- Files are written to `tts/output/`.
+- Copy them into `../data/sounds/` for the web app:
 
-- Only the `word` field is spoken.
+```bash
+cp output/*.mp3 ../data/sounds/
+```
+
+### Notes
+
+- The script speaks the `word` field.
 - The `ipa` field is used through SSML phoneme tags.
-- Existing MP3 files are skipped.
+- Existing MP3 files in `tts/output/` are skipped.
