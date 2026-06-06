@@ -1,532 +1,532 @@
 [
   {
     "word": "sphere",
-    "meaning": "A round three-dimensional shape, like a ball.",
+    "description": "A round three-dimensional shape, like a ball.",
     "sound": "s-ph-ere",
     "ipa": "sfɪə",
     "example": "The Earth is shaped like a sphere."
   },
   {
     "word": "blew",
-    "meaning": "Moved air from the mouth, or was moved by the wind; past tense of blow.",
+    "description": "Moved air from the mouth, or was moved by the wind; past tense of blow.",
     "sound": "b-l-ew",
     "ipa": "bluː",
     "example": "The wind blew the leaves across the path."
   },
   {
     "word": "trolley",
-    "meaning": "A cart or small vehicle with wheels used for carrying things.",
+    "description": "A cart or small vehicle with wheels used for carrying things.",
     "sound": "t-r-o-ll-ey",
     "ipa": "ˈtrɒli",
     "example": "We put the food in the trolley at the shop."
   },
   {
     "word": "voyage",
-    "meaning": "A long journey, especially by sea or through space.",
+    "description": "A long journey, especially by sea or through space.",
     "sound": "v-oy-a-ge",
     "ipa": "ˈvɔɪɪdʒ",
     "example": "The sailors went on a long voyage across the ocean."
   },
   {
     "word": "zea",
-    "meaning": null,
+    "description": null,
     "sound": "z-ea",
     "ipa": "ziː",
     "example": null
   },
   {
     "word": "stebet",
-    "meaning": null,
+    "description": null,
     "sound": "s-t-e-b-e-t",
     "ipa": "ˈstɛbɛt",
     "example": null
   },
   {
     "word": "phantob",
-    "meaning": null,
+    "description": null,
     "sound": "ph-a-n-t-o-b",
     "ipa": "ˈfæntɒb",
     "example": null
   },
   {
     "word": "belpha",
-    "meaning": null,
+    "description": null,
     "sound": "b-e-l-ph-a",
     "ipa": "ˈbɛlfə",
     "example": null
   },
   {
     "word": "gewep",
-    "meaning": null,
+    "description": null,
     "sound": "g-ew-e-p",
     "ipa": "ˈɡjuːɛp",
     "example": null
   },
   {
     "word": "nurkey",
-    "meaning": null,
+    "description": null,
     "sound": "n-ur-k-ey",
     "ipa": "ˈnɜːki",
     "example": null
   },
   {
     "word": "least",
-    "meaning": "The smallest amount or the lowest degree.",
+    "description": "The smallest amount or the lowest degree.",
     "sound": "l-ea-st",
     "ipa": "liːst",
     "example": "I have the least amount of paint left."
   },
   {
     "word": "why",
-    "meaning": "For what reason.",
+    "description": "For what reason.",
     "sound": "wh-y",
     "ipa": "waɪ",
     "example": "Why is the sky blue?"
   },
   {
     "word": "coya",
-    "meaning": null,
+    "description": null,
     "sound": "c-oy-a",
     "ipa": "ˈkɔɪə",
     "example": null
   },
   {
     "word": "microphone",
-    "meaning": "A device that records or makes your voice louder.",
+    "description": "A device that records or makes your voice louder.",
     "sound": "m-i-c-r-o-ph-o-ne",
     "ipa": "ˈmaɪkrəfəʊn",
     "example": "She sang into the microphone."
   },
   {
     "word": "bockey",
-    "meaning": null,
+    "description": null,
     "sound": "b-o-ck-ey",
     "ipa": "ˈbɒki",
     "example": null
   },
   {
     "word": "tissue",
-    "meaning": "A soft piece of paper used for wiping your nose; also a type of body material.",
+    "description": "A soft piece of paper used for wiping your nose; also a type of body material.",
     "sound": "t-i-ss-ue",
     "ipa": "ˈtɪʃuː",
     "example": "I used a tissue to wipe my nose."
   },
   {
     "word": "jesue",
-    "meaning": null,
+    "description": null,
     "sound": "j-e-s-ue",
     "ipa": "ˈdʒɛsjuː",
     "example": null
   },
   {
     "word": "meat",
-    "meaning": "Food from an animal.",
+    "description": "Food from an animal.",
     "sound": "m-ea-t",
     "ipa": "miːt",
     "example": "The dog ate a piece of meat."
   },
   {
     "word": "sweast",
-    "meaning": null,
+    "description": null,
     "sound": "s-w-ea-st",
     "ipa": "swiːst",
     "example": null
   },
   {
     "word": "jaw",
-    "meaning": "The part of the face with the mouth and teeth.",
+    "description": "The part of the face with the mouth and teeth.",
     "sound": "j-aw",
     "ipa": "dʒɔː",
     "example": "The dentist looked at my jaw."
   },
   {
     "word": "blawn",
-    "meaning": null,
+    "description": null,
     "sound": "b-l-aw-n",
     "ipa": "blɔːn",
     "example": null
   },
   {
     "word": "chawn",
-    "meaning": null,
+    "description": null,
     "sound": "ch-aw-n",
     "ipa": "tʃɔːn",
     "example": null
   },
   {
     "word": "dayb",
-    "meaning": null,
+    "description": null,
     "sound": "d-ay-b",
     "ipa": "deɪb",
     "example": null
   },
   {
     "word": "tray",
-    "meaning": "A flat object with raised edges used for carrying things.",
+    "description": "A flat object with raised edges used for carrying things.",
     "sound": "t-r-ay",
     "ipa": "treɪ",
     "example": "She carried the cups on a tray."
   },
   {
     "word": "drawers",
-    "meaning": "Sliding boxes in furniture used for storing things.",
+    "description": "Sliding boxes in furniture used for storing things.",
     "sound": "d-r-aw-er-s",
     "ipa": "drɔːz",
     "example": "I put my socks in the drawers."
   },
   {
     "word": "blay",
-    "meaning": null,
+    "description": null,
     "sound": "b-l-ay",
     "ipa": "bleɪ",
     "example": null
   },
   {
     "word": "blue",
-    "meaning": "A colour like the sky on a clear day.",
+    "description": "A colour like the sky on a clear day.",
     "sound": "b-l-ue",
     "ipa": "bluː",
     "example": "The boat is blue."
   },
   {
     "word": "whib",
-    "meaning": null,
+    "description": null,
     "sound": "wh-i-b",
     "ipa": "wɪb",
     "example": null
   },
   {
     "word": "whiskers",
-    "meaning": "Long hairs on an animal's face, especially near the nose or mouth.",
+    "description": "Long hairs on an animal's face, especially near the nose or mouth.",
     "sound": "wh-i-sk-er-s",
     "ipa": "ˈwɪskəz",
     "example": "The cat has long whiskers."
   },
   {
     "word": "whump",
-    "meaning": "A dull, heavy thumping sound.",
+    "description": "A dull, heavy thumping sound.",
     "sound": "wh-u-m-p",
     "ipa": "wʌmp",
     "example": "The bag landed with a whump."
   },
   {
     "word": "crayon",
-    "meaning": "A coloured wax stick used for drawing.",
+    "description": "A coloured wax stick used for drawing.",
     "sound": "c-r-ay-o-n",
     "ipa": "ˈkreɪən",
     "example": "I drew a sun with a yellow crayon."
   },
   {
     "word": "prew",
-    "meaning": null,
+    "description": null,
     "sound": "p-r-ew",
     "ipa": "pruː",
     "example": null
   },
   {
     "word": "screw",
-    "meaning": "A metal fastener that turns into wood or another material; also to twist something into place.",
+    "description": "A metal fastener that turns into wood or another material; also to twist something into place.",
     "sound": "s-c-r-ew",
     "ipa": "skruː",
     "example": "Dad used a screw to fix the shelf."
   },
   {
     "word": "monkey",
-    "meaning": "An animal that often climbs trees and has a long tail.",
+    "description": "An animal that often climbs trees and has a long tail.",
     "sound": "m-o-n-k-ey",
     "ipa": "ˈmʌŋki",
     "example": "The monkey climbed the tree."
   },
   {
     "word": "hanue",
-    "meaning": null,
+    "description": null,
     "sound": "h-a-n-ue",
     "ipa": "ˈhænjuː",
     "example": null
   },
   {
     "word": "cube",
-    "meaning": "A three-dimensional shape with six equal square faces.",
+    "description": "A three-dimensional shape with six equal square faces.",
     "sound": "c-u_e-b",
     "ipa": "kjuːb",
     "example": "The dice is shaped like a cube."
   },
   {
     "word": "home",
-    "meaning": "The place where someone lives.",
+    "description": "The place where someone lives.",
     "sound": "h-o_e-m",
     "ipa": "həʊm",
     "example": "We went home after school."
   },
   {
     "word": "splove",
-    "meaning": null,
+    "description": null,
     "sound": "s-p-l-o_e-v",
     "ipa": "spləʊv",
     "example": null
   },
   {
     "word": "trofe",
-    "meaning": null,
+    "description": null,
     "sound": "t-r-o_e-f",
     "ipa": "trəʊf",
     "example": null
   },
   {
     "word": "raub",
-    "meaning": null,
+    "description": null,
     "sound": "r-au-b",
     "ipa": "rɔːb",
     "example": null
   },
   {
     "word": "zaul",
-    "meaning": null,
+    "description": null,
     "sound": "z-au-l",
     "ipa": "zɔːl",
     "example": null
   },
   {
     "word": "flane",
-    "meaning": null,
+    "description": null,
     "sound": "f-l-a_e-n",
     "ipa": "fleɪn",
     "example": null
   },
   {
     "word": "gnome",
-    "meaning": "A small imaginary creature often shown as an old man with a pointed hat.",
+    "description": "A small imaginary creature often shown as an old man with a pointed hat.",
     "sound": "gn-o_e-m",
     "ipa": "nəʊm",
     "example": "There is a garden gnome by the flowers."
   },
   {
     "word": "plide",
-    "meaning": null,
+    "description": null,
     "sound": "p-l-i_e-d",
     "ipa": "plaɪd",
     "example": null
   },
   {
     "word": "inside",
-    "meaning": "In or into the inner part of something.",
+    "description": "In or into the inner part of something.",
     "sound": "i-n-s-i_e-d",
     "ipa": "ɪnˈsaɪd",
     "example": "The toy is inside the box."
   },
   {
     "word": "five",
-    "meaning": "The number 5.",
+    "description": "The number 5.",
     "sound": "f-i_e-v",
     "ipa": "faɪv",
     "example": "I have five crayons."
   },
   {
     "word": "shirt",
-    "meaning": "A piece of clothing worn on the upper body.",
+    "description": "A piece of clothing worn on the upper body.",
     "sound": "sh-ir-t",
     "ipa": "ʃɜːt",
     "example": "He wore a red shirt."
   },
   {
     "word": "automatic",
-    "meaning": "Working by itself with little or no human help.",
+    "description": "Working by itself with little or no human help.",
     "sound": "au-t-o-m-a-t-i-c",
     "ipa": "ˌɔːtəˈmætɪk",
     "example": "The automatic door opened by itself."
   },
   {
     "word": "escape",
-    "meaning": "To get away from a place or danger.",
+    "description": "To get away from a place or danger.",
     "sound": "e-s-c-a_e-p",
     "ipa": "ɪˈskeɪp",
     "example": "The rabbit tried to escape from the garden."
   },
   {
     "word": "brake",
-    "meaning": "A device used to slow or stop a vehicle.",
+    "description": "A device used to slow or stop a vehicle.",
     "sound": "b-r-a_e-k",
     "ipa": "breɪk",
     "example": "Mum pressed the brake to stop the car."
   },
   {
     "word": "glime",
-    "meaning": null,
+    "description": null,
     "sound": "g-l-i_e-m",
     "ipa": "ɡlaɪm",
     "example": null
   },
   {
     "word": "first",
-    "meaning": "Coming before all others.",
+    "description": "Coming before all others.",
     "sound": "f-ir-st",
     "ipa": "fɜːst",
     "example": "She was first in the line."
   },
   {
     "word": "rust",
-    "meaning": "A reddish-brown coating that forms on iron or steel.",
+    "description": "A reddish-brown coating that forms on iron or steel.",
     "sound": "r-u-st",
     "ipa": "rʌst",
     "example": "The old bike had rust on it."
   },
   {
     "word": "bitreen",
-    "meaning": null,
+    "description": null,
     "sound": "b-i-t-r-ee-n",
     "ipa": "bɪˈtriːn",
     "example": null
   },
   {
     "word": "autumn",
-    "meaning": "The season after summer and before winter.",
+    "description": "The season after summer and before winter.",
     "sound": "au-t-u-mn",
     "ipa": "ˈɔːtəm",
     "example": "Leaves fall from the trees in autumn."
   },
   {
     "word": "games",
-    "meaning": "Activities played for fun, often with rules.",
+    "description": "Activities played for fun, often with rules.",
     "sound": "g-a_e-m-s",
     "ipa": "ɡeɪmz",
     "example": "We played games after dinner."
   },
   {
     "word": "mule",
-    "meaning": "An animal with a horse as one parent and a donkey as the other.",
+    "description": "An animal with a horse as one parent and a donkey as the other.",
     "sound": "m-u_e-l",
     "ipa": "mjuːl",
     "example": "The mule carried the bags up the hill."
   },
   {
     "word": "moes",
-    "meaning": null,
+    "description": null,
     "sound": "m-oe-s",
     "ipa": "məʊz",
     "example": null
   },
   {
     "word": "complete",
-    "meaning": "Finished, or with no parts missing.",
+    "description": "Finished, or with no parts missing.",
     "sound": "c-o-m-p-l-ee-t",
     "ipa": "kəmˈpliːt",
     "example": "The puzzle is complete."
   },
   {
     "word": "flene",
-    "meaning": null,
+    "description": null,
     "sound": "f-l-e_e-n",
     "ipa": "fliːn",
     "example": null
   },
   {
     "word": "swede",
-    "meaning": "A round root vegetable; also a person from Sweden.",
+    "description": "A round root vegetable; also a person from Sweden.",
     "sound": "s-w-e_e-d",
     "ipa": "swiːd",
     "example": "We ate swede with our dinner."
   },
   {
     "word": "oyster",
-    "meaning": "A sea animal with a rough shell.",
+    "description": "A sea animal with a rough shell.",
     "sound": "oy-s-t-er",
     "ipa": "ˈɔɪstə",
     "example": "The oyster was inside its shell."
   },
   {
     "word": "aoy",
-    "meaning": null,
+    "description": null,
     "sound": "a-oy",
     "ipa": "ɔɪ",
     "example": null
   },
   {
     "word": "stied",
-    "meaning": null,
+    "description": null,
     "sound": "s-t-ie-d",
     "ipa": "staɪd",
     "example": null
   },
   {
     "word": "tried",
-    "meaning": "Made an effort to do something; past tense of try.",
+    "description": "Made an effort to do something; past tense of try.",
     "sound": "t-r-ie-d",
     "ipa": "traɪd",
     "example": "I tried to tie my shoes."
   },
   {
     "word": "fie",
-    "meaning": "An old-fashioned word said to show disapproval.",
+    "description": "An old-fashioned word said to show disapproval.",
     "sound": "f-ie",
     "ipa": "faɪ",
     "example": "Fie, that was not kind!"
   },
   {
     "word": "around",
-    "meaning": "On every side of something, or moving in a circle.",
+    "description": "On every side of something, or moving in a circle.",
     "sound": "a-r-ou-n-d",
     "ipa": "əˈraʊnd",
     "example": "We walked around the pond."
   },
   {
     "word": "woe",
-    "meaning": "Great sadness or trouble.",
+    "description": "Great sadness or trouble.",
     "sound": "w-oe",
     "ipa": "wəʊ",
     "example": "The story was full of woe."
   },
   {
     "word": "koun",
-    "meaning": null,
+    "description": null,
     "sound": "k-ou-n",
     "ipa": "kaʊn",
     "example": null
   },
   {
     "word": "tied",
-    "meaning": "Fastened with a knot or string; past tense of tie.",
+    "description": "Fastened with a knot or string; past tense of tie.",
     "sound": "t-ie-d",
     "ipa": "taɪd",
     "example": "She tied the ribbon in a bow."
   },
   {
     "word": "heroes",
-    "meaning": "People admired for being brave or doing good things.",
+    "description": "People admired for being brave or doing good things.",
     "sound": "h-er-oe-s",
     "ipa": "ˈhɪərəʊz",
     "example": "The firefighters were heroes."
   },
   {
     "word": "mouth",
-    "meaning": "The opening in the face used for eating, speaking, and breathing.",
+    "description": "The opening in the face used for eating, speaking, and breathing.",
     "sound": "m-ou-th",
     "ipa": "maʊθ",
     "example": "Open your mouth wide."
   },
   {
     "word": "joud",
-    "meaning": null,
+    "description": null,
     "sound": "j-ou-d",
     "ipa": "dʒaʊd",
     "example": null
   },
   {
     "word": "foe",
-    "meaning": "An enemy or opponent.",
+    "description": "An enemy or opponent.",
     "sound": "f-oe",
     "ipa": "fəʊ",
     "example": "The knight faced his foe."
   },
   {
     "word": "jume",
-    "meaning": null,
+    "description": null,
     "sound": "j-u_e-m",
     "ipa": "dʒuːm",
     "example": null
   },
   {
     "word": "scume",
-    "meaning": null,
+    "description": null,
     "sound": "s-c-u_e-m",
     "ipa": "skjuːm",
     "example": null
