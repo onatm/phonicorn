@@ -1,4 +1,4 @@
-# Phonicorn
+# phonicorn
 
 A self-hosted phonics flashcard app for helping kids practice word sounds, pronunciations, and decoding patterns.
 
