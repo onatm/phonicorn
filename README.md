@@ -1,6 +1,6 @@
 # Phonicorn
 
-Local phonics cards for kids.
+A local phonics card app for helping kids practice word sounds, pronunciations, and decoding patterns.
 
 ## What It Is
 
