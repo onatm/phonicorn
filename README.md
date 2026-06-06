@@ -1,6 +1,6 @@
 # Phonicorn
 
-A self-hosted phonics card app for helping kids practice word sounds, pronunciations, and decoding patterns.
+A self-hosted phonics flashcard app for helping kids practice word sounds, pronunciations, and decoding patterns.
 
 ## What It Is
 
