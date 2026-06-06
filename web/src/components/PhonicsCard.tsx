@@ -77,14 +77,14 @@ export function PhonicsCard({ entry, theme, isPlaying, onPlay }: PhonicsCardProp
         </div>
 
         <div className="mt-8 grid gap-4 sm:mt-10 sm:gap-5">
-          {entry.description ? (
+          {/* {entry.description ? (
             <section className="rounded-[1.35rem] border border-stone-200/80 bg-stone-50/80 px-4 py-4 text-left sm:px-5">
               <p className="text-[0.7rem] font-semibold uppercase tracking-[0.24em] text-stone-400">
                 Description
               </p>
               <p className="mt-2 text-base leading-7 text-stone-700 sm:text-lg">{entry.description}</p>
             </section>
-          ) : null}
+          ) : null} */}
 
           {entry.example ? (
             <section className="rounded-[1.35rem] border border-stone-200/80 bg-stone-50/80 px-4 py-4 text-left sm:px-5">
