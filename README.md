@@ -1,0 +1,3 @@
+# phonicorn
+
+phonics for kids.
