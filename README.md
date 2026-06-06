@@ -2,6 +2,8 @@
 
 A self-hosted phonics flashcard app for helping kids practice word sounds, pronunciations, and decoding patterns.
 
+![Phonicorn app screenshot](phonicorn.jpg)
+
 ## What It Is
 
 - A single-page React app for browsing phonics cards.
